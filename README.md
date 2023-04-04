@@ -9,5 +9,6 @@ Dazu zählen unter anderem:
 - Regeln
 - Scripts
 - Programmierhilfen
+- [Allgemeines Wiki](https://github.com/bimbam2103/space_engineers/wiki)
 
 Alle wichtigen Informationen wie z.B. das Entwicklerhandbuch von [Malware-Dev](https://github.com/malware-dev/MDK-SE/wiki) wurde [hier](https://github.com/bimbam2103/space_engineers/wiki/SEHome) veröffentlicht.
